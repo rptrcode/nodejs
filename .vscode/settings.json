@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d60859f4-5b23-4d73-b9e9-25793856cef6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/rptr-nodejs-webapp",
+    "appService.deploySubpath": ""
+}
